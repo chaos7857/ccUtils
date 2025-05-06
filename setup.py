@@ -12,11 +12,11 @@ from shutil import rmtree
 from setuptools import find_packages, setup, Command
 
 # Package meta-data.
-NAME = 'mypackage'
-DESCRIPTION = 'My short description for my project.'
-URL = 'https://github.com/me/myproject'
+NAME = 'easyTT'
+DESCRIPTION = '一些常用的工具进行了封装，方便使用'
+URL = 'https://github.com/chaos7857/ccUtils'
 EMAIL = 'me@example.com'
-AUTHOR = 'Awesome Soul'
+AUTHOR = 'achao'#'Awesome Soul'
 REQUIRES_PYTHON = '>=3.6.0'
 VERSION = '0.1.0'
 
@@ -31,7 +31,7 @@ EXTRAS = {
 }
 
 # The rest you shouldn't have to touch too much :)
-# ------------------------------------------------
+# -----------------------------------------------------------------------------------
 # Except, perhaps the License and Trove Classifiers!
 # If you do change the License, remember to change the Trove Classifier for that!
 
